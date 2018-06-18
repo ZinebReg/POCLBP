@@ -28,6 +28,6 @@ public class myclass {
 
 	@Keyword
 	public static void Ouvrir_Navigateur() {
-		WebUI.callTestCase(findTestCase('Affichage Magasin/Ouvrir_Navigateur'), [:],FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('AffichageMagasin/Ouvrir_Navigateur'), [:],FailureHandling.STOP_ON_FAILURE)
 	}
 }

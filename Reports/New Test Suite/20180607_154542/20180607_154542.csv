@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,Chrome 66.0.3359.181,,2018-06-07 15:45:48,2018-06-07 15:46:07,"18,790s",PASSED
+,,,,,,
+Test Cases/Affichage magasin/Main,Chrome 66.0.3359.181,,2018-06-07 15:45:50,2018-06-07 15:46:06,"15,811s",PASSED
+keywords.myclass.Ouvrir_Navigateur,Chrome 66.0.3359.181,,2018-06-07 15:45:51,2018-06-07 15:46:06,"14,736s",PASSED

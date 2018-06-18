@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="22" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="22" timestamp="2018-06-08 10:11:08" hostname="FRPARESTCPOCLBP$ - FRPARESTCPOCLBP.corp.capgemini.com" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\zregragu\\git\\POCLBP\\Reports\\New Test Suite\\20180608_101056"/>
+         <property name="logFiles" value="C:\\Users\\zregragu\\git\\POCLBP\\Reports\\New Test Suite\\20180608_101056\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="FRPARESTCPOCLBP$ - FRPARESTCPOCLBP.corp.capgemini.com"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 66.0.3359.181"/>
+         <property name="hostAddress" value="10.24.208.188"/>
+         <property name="sessionId" value="7551e6c907651df0dd32b494957f50d9"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Affichage magasin/Main" classname="Test Cases/Affichage magasin/Main" status="PASSED">
+         <system-out><![CDATA[2018-06-08 10:11:10 - [TEST_CASE][PASSED] - Test Cases/Affichage magasin/Main: Test Cases/Affichage magasin/Main
+
+2018-06-08 10:11:11 - [TEST_STEP][PASSED] - keywords.myclass.Ouvrir_Navigateur: keywords.myclass.Ouvrir_Navigateur is PASSED
+
+2018-06-08 10:11:12 - [TEST_CASE][PASSED] - Test Cases/Affichage Magasin/Ouvrir_Navigateur: Test Cases/Affichage Magasin/Ouvrir_Navigateur
+
+2018-06-08 10:11:13 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-08 10:11:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-08 10:11:23 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.casinodrive.fr/ecommerce/https/prehome/drive' successfully
+
+2018-06-08 10:11:26 - [MESSAGE][PASSED] - Navigate to 'https://www.casinodrive.fr/ecommerce/https/prehome/drive' successfully
+
+2018-06-08 10:11:26 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-06-08 10:11:26 - [MESSAGE][PASSED] - Current window maximized
+
+2018-06-08 10:11:26 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-06-08 10:11:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-06-08 10:11:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Affichage Magasin/Ouvrir_Navigateur' successfully
+
+2018-06-08 10:11:29 - [MESSAGE][PASSED] - keywords.myclass.Ouvrir_Navigateur is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-08 10:11:08 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/Affichage magasin/Main]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

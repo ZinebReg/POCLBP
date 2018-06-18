@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,Firefox 60.0,,2018-06-07 15:31:00,2018-06-07 15:31:25,"25,057s",PASSED
+,,,,,,
+Test Cases/Affichage magasin/Main,Firefox 60.0,,2018-06-07 15:31:01,2018-06-07 15:31:24,"22,758s",PASSED
+keywords.myclass.Ouvrir_Navigateur,Firefox 60.0,,2018-06-07 15:31:03,2018-06-07 15:31:24,"21,648s",PASSED

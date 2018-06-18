@@ -4,6 +4,7 @@
    <name>New Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
+   <lastRun>2018-06-08T14:39:19</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -14,6 +15,6 @@
       <guid>2052c003-7440-4356-a235-c8da7522f202</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Affichage magasin/Main</testCaseId>
+      <testCaseId>Test Cases/Affichagemagasin/Main</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
